@@ -6,10 +6,10 @@ Esse repositório reune os registros de ocorrência de coleções científicas d
 
 
 ### 1- Dados brutos:
-No arquivo XXXX estão disponíveis todas as ocorrências disponíveis na plataforma no dia 1º/04/2024, sem filtros ou edições.
+No arquivo araucaria_moist_forest_RS_fauna.csv estão disponíveis todas as ocorrências disponíveis na plataforma no dia 1º/04/2024, sem filtros ou edições.
 
 ### 2- Referências:
-No arquivo citation.csv estão disponíveis as referências dos repositórios consultados no arquivo XXXX (dados brutos).
+No arquivo citation.csv estão disponíveis as referências dos repositórios consultados no arquivo araucaria_moist_forest_RS_fauna.csv (dados brutos).
 
 ### 3- Fauna de invertebrados:
 araucaria_moist_forest_RS_invertebrados.xlsx
