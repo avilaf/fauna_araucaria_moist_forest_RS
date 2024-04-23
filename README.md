@@ -4,22 +4,24 @@ Esse repositório reune os registros de ocorrência de coleções científicas d
 
 ## Estão disponíveis nesse repositório os seguintes materiais:
 
+
 ### 1- Dados brutos:
 No arquivo XXXX estão disponíveis todas as ocorrências disponíveis na plataforma no dia 1º/04/2024, sem filtros ou edições.
 
 ### 2- Referências:
-No arquivo XXXX estão disponíveis as referências dos repositórios consultados no arquivo XXXX (dados brutos).
+No arquivo citation.csv estão disponíveis as referências dos repositórios consultados no arquivo XXXX (dados brutos).
 
-### 3- Gerenciamento dos dados:
-No arquivo XXXX estão disponíveis os registros filtrados de acordo com os seguintes critérios:
+### 3- Fauna de invertebrados:
+araucaria_moist_forest_RS_invertebrados.xlsx
+Contém os registros de ocorrência e uma aba com a contagem de espécies de invertrebrados.
 
-#### a- Registro de espécime depositado em coleções científicas
-#### b- Filos: Artrhopoda e Chordata
+### 4- Herpetofauna:
+araucaria_moist_forest_RS_herpetofauna.xlsx
+Contém os registros de ocorrência e uma aba com a contagem de espécies de anfíbios e répteis.
 
-#### 4- Contagem de ocorrências:
-No arquivo XXXX constam as informações detalhadas com o número de registros de ocorrência de cada espécie para a região amostrada. As espécies foram ordenadas da mais frequente à mais rara.
-
-
+### 5- Mamíferos não voadores:
+araucaria_moist_forest_RS_mamiferos_nao_voadores.xlsx
+Contém os registros de ocorrência e uma aba com a contagem de espécies de mamíferos não voadores.
 
 Para mais informações a respeito desse material por favor contactar: fernandar.avila@gmail.com
 
