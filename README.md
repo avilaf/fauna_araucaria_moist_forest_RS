@@ -25,5 +25,11 @@ Contém os registros de ocorrência e uma aba com a contagem de espécies de mam
 
 Para mais informações a respeito desse material por favor contactar: fernandar.avila@gmail.com
 
+___
+Dra. Fernanda Rodrigues de Avila
+https://avilaf.github.io/ 
+🫱🏻‍🫲🏾♀️🔬
+
+
 
 
